@@ -49,12 +49,12 @@ function Home() {
           portfolio with awesome projects.
         </p>
         <p>
-          Form teams to build awesome projects and share what you built the
-          following month!
+          Each month, members come together to form teams, build awesome
+          projects, and share what they built and learned the following month.
         </p>
         <p>
           Every team that presents their project will earn a spot on the club
-          website in the Team Tech Project gallery!
+          website in the <Link to="/gallery">Team Tech Project gallery!</Link>
         </p>
       </main>
     </Layout>
