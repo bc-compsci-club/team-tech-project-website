@@ -51,10 +51,12 @@
 }
 
 .getStarted {
+  color: #000 !important;
   background-color: #eee;
 }
 
 .getStarted:hover {
+  color: #000 !important;
   background-color: #fff;
 }
 
