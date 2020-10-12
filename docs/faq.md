@@ -21,4 +21,4 @@ Anything! Whether you want to build a web app, a Java command line program, a ga
 
 ### My question isn't answered here! What should I do?
 
-If you have a specific question about the event itself, send us an email at contact@bccompsci.club, but if you have a general question, try asking on our Discord community.
+If you have a specific question about the event itself, send us an email at teamtechproject@bccompsci.club, but if you have a general question, try asking on our Discord community.

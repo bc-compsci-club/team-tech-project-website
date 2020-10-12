@@ -41,7 +41,7 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} Brooklyn College Computer Science Club. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Brooklyn College Computer Science Club.<br/><br/>Contact the E-Board:<br/>TTP Help: <a href="mailto:teamtechproject@bccompsci.club">teamtechproject@bccompsci.club</a><br/>General Inquiries: <a href="mailto:contact@bccompsci.club">contact@bccompsci.club</a><br/><br/>Website built with Docusaurus.`,
     },
   },
   presets: [
