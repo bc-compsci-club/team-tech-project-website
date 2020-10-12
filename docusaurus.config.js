@@ -1,102 +1,58 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  title: "Team Tech Project | Brooklyn College Computer Science Club",
+  tagline: "Team Tech Project documentation.",
+  url: "https://ttp.bccompsci.club",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  favicon: "img/logo.png",
+  organizationName: "bc-compsci-club", // Usually your GitHub org/user name.
+  projectName: "ttp.bccompsci.club", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: "Team Tech Project",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: "CS Club Logo",
+        src: "img/logo.png",
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: "docs/",
+          activeBasePath: "docs/",
+          label: "Event Guide",
+          position: "left",
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: "gallery",
+          label: "Gallery",
+          activeBasePath: "gallery",
+          position: "left",
+        },
+        {
+          href: "https://bccompsci.club/events/5/team-tech-project-october",
+          label: "October Meetup Registration",
+          position: "right",
+        },
+        {
+          href: "https://bccompsci.club",
+          label: "CS Club Website",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      style: "dark",
+      copyright: `Copyright © ${new Date().getFullYear()} Brooklyn College Computer Science Club. Built with Docusaurus.`,
     },
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],

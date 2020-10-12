@@ -1,0 +1,9 @@
+.Gallery {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.gallery-heading {
+  text-align: center;
+}

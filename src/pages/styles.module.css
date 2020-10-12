@@ -1,18 +1,43 @@
 /* stylelint-disable docusaurus/copyright-header */
 
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+* CSS files with the .module.css suffix will be treated as CSS modules
+* and scoped locally.
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap");
+
+.landingHeading {
+  font-size: 4rem;
+  font-family: "Anonymous Pro", monospace;
+}
+
+.landingBanner {
+  width: 50%;
+  border-radius: 5px;
+  box-shadow: 0 0 5px slategray;
+  margin: 2rem 0;
+}
 
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, #00f260 0%, #2190ff 100%);
 }
 
 @media screen and (max-width: 966px) {
+  .landingHeading {
+    font-size: 3rem;
+    font-family: "Anonymous Pro", monospace;
+  }
+
+  .landingBanner {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
   .heroBanner {
     padding: 2rem;
   }
@@ -22,6 +47,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 3rem;
+}
+
+.getStarted {
+  background-color: #eee;
+}
+
+.getStarted:hover {
+  background-color: #fff;
 }
 
 .features {
@@ -34,4 +68,18 @@
 .featureImage {
   height: 200px;
   width: 200px;
+}
+
+.landingDescription {
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  max-width: 720px;
+}
+
+.landingDescription p {
+  font-size: 1.25rem;
+}
+
+.landingDescription p:last-child {
+  margin-bottom: 0;
 }

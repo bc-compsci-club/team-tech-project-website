@@ -1,6 +1,6 @@
 {
   "name": "ttp-bccompsci-club",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,7 +16,8 @@
     "@mdx-js/react": "^1.5.8",
     "clsx": "^1.1.1",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "typeface-anonymous-pro": "^1.1.13"
   },
   "browserslist": {
     "production": [
