@@ -13,6 +13,6 @@ Ready to get started? Continue on to [**Getting Started**](/docs/start) to begin
 
 ---
 
-The next monthly meetup is **October 13, 2020**. Register for the next meetup [here!](https://bccompsci.club/events/5/team-tech-project-october)
+The next monthly meetup is in **Mid-November**.
 
-Check out the club's [events page](https://bccompsci.club/events) for the latest about upcoming events and activities.
+Check out the club's [events page](https://bccompsci.club/events) for the latest about upcoming meetups, as well as other great events and activities.

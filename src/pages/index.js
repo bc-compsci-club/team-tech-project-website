@@ -27,7 +27,7 @@ function Home() {
           <h2>
             Next Meetup:
             <br />
-            October 13, 2020
+            Mid-November
           </h2>
           <div className={styles.buttons}>
             <Link

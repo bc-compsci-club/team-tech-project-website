@@ -26,15 +26,4 @@ Not a member of our Discord community and/or the club yet? [Join the club here f
 
 After the previous month's presentations are finished, team formation for the following month's project begins. This is the best time to find team members to work with, as others will be looking for a team too!
 
-The next monthly meetup is **October 13, 2020**. Register for the next meetup [here!](https://bccompsci.club/events/5/team-tech-project-october)
-
-<!-- ### Decide on a Project
-
-After finding a team to work with, you can start brainstorming project ideas!
-
-
-### Start Building and Learning!
-
-### Prepare Your Presentation
-
-### -->
+The next monthly meetup is in **Mid-November**.
