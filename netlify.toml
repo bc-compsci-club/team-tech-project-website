@@ -1,0 +1,31 @@
+[[headers]]
+for = "/static/media/*.woff2"
+[headers.values]
+cache-control = '''
+    public,
+	max-age=86400,
+	immutable'''
+
+[[headers]]
+for = "*.json"
+[headers.values]
+cache-control = '''
+    public,
+	max-age=0,
+	must-revalidate'''
+
+# Redirects for the domain
+[[redirects]]
+from = "/meetups/october/recording"
+to = "https://us02web.zoom.us/rec/share/gw3lNWMM-OkbaNvWbjWNU-t2JSJGttlaE_-PxlzDephDCVnxLp4W__HxU6o2VxKb.-sjM12ISePDeXY9R?startTime=1602606052000"
+status = 302
+headers = {Cache-Control = "public, max-age=0, must-revalidate"}
+
+[[redirects]]
+from = "/*"
+to = "/"
+status = 200
+
+[build]
+command = "npm run build"
+publish = "build"
