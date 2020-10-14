@@ -5,7 +5,6 @@ title: Learning Resources
 
 ## Events and Workshops
 
-- [Build and Deploy Your First Website](https://organize.mlh.io/participants/events/4984-build-and-deploy-your-first-website): Learn the structure and syntax of basic HTML and CSS. **Tuesday, October 13, 7:00 PM to 9:00 PM.**
 - [Build your first skill for Amazon Alexa](https://organize.mlh.io/participants/events/4986-build-your-first-skill-for-amazon-alexa): Learn the basics of how to build skills for Amazon Alexa to run on Alexa devices like the Amazon Echo or Echo Dot. **Thursday, October 15, 11:30 AM to 1:30 PM.**
 - [MLH Local Hack Day: Learn](https://localhackday.mlh.io/learn): An online, week-long conference where you can pick up new skills by participating in various workshops and talks. Learn skills such as publishing websites using AWS, scraping tweets using Python, and more! **October 18 - 24.**
 
