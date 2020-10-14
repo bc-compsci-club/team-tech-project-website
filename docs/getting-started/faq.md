@@ -1,6 +1,6 @@
 ---
 id: faq
-title: FAQ
+title: Frequently Asked Questions
 ---
 
 ### What if I've never written a line of code before?
