@@ -5,7 +5,7 @@ title: FAQ
 
 ### What if I've never written a line of code before?
 
-That's OK! You should register anyway! We'll have plenty of resources and a few workshops in the coming weeks to get you up and running. If you ever get stuck on something, you can always ask for help in `#💻programming-help` on our Discord community.
+That's OK! You should register anyway! We'll have plenty of resources and a few workshops in the coming weeks to get you up and running. If you ever get stuck on something, you can always ask for help in `#programming-help` on our Discord community.
 
 ### What if I don't have a team?
 
