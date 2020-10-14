@@ -8,6 +8,7 @@ module.exports = {
         "getting-started/how-team-tech-project-works",
         "getting-started/forming-your-team",
         "getting-started/building-your-project",
+        "getting-started/prepare-to-present",
         "getting-started/faq",
       ],
       collapsed: false,

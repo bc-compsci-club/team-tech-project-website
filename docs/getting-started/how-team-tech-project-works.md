@@ -24,6 +24,10 @@ The most important thing is that you enjoyed building your project and learned s
 
 ## Working on Your Project Over Time
 
-As long as you and your team started a new project specifically for Team Tech Project, you can continue to work on that same project for future meetups and present updates about your project as it evolves.
+As long as you and your team started a new project specifically for Team Tech Project, you can continue to work on that same project for future meetups! During each meetup, update us about the progress of your project as it evolves and the improvements you and your team made since your last presentation.
 
-Don't feel pressured to rush to finish your project before each meetup! If you don't feel like you can complete your project before the next meetup, that's OK! Just present your current progress with the project and continue working on it for the next meetup.
+:::tip
+Don't feel pressured to rush to finish your project before each meetup!
+
+If you don't feel like you can complete your project before the next meetup, that's OK! Just present your current progress with the project and continue working on it for the next meetup. A high quality, polished project looks much better on your portfolio than a rushed project!
+:::

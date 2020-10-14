@@ -17,4 +17,6 @@ title: Learning Resources
 - [MLH Localhost Workshops](https://mlh.io/seasons/localhost/events): Workshops covering today's most relevant technologies, so you can level up and build your skills quickly. Hosted by MLH and their partners.
 - [MLH Hackathons](https://mlh.io/seasons/2021/events): A list of hackathons where students learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere. Many hackathons also have educational workshops to learn from!
 
+:::note Contribute to this list!
 Have any resources you want to share with us? Post them in our Discord community under the `#resources` channel!
+:::
