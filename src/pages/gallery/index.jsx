@@ -8,7 +8,7 @@ function Gallery() {
       <div className="Gallery">
         <h1 className="gallery-heading">Gallery</h1>
         <div>
-          <h2>October 2020</h2>
+          <h2>November 2020</h2>
           <p>Coming soon...</p>
         </div>
       </div>
