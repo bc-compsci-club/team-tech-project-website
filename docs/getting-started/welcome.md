@@ -8,7 +8,7 @@ Team Tech Project is a monthly meetup for club members interested in gaining exp
 
 Whether you've never wrote a line of code before or you're a seasoned programmer, Team Tech Project welcomes you.
 
-Ready to get started? Continue on to [**Getting Started**](/docs) to begin your adventure!
+Ready to get started? Continue on to [**How Team Tech Project Works**](/docs/getting-started/how-team-tech-project-works) to begin your adventure!
 
 ---
 
