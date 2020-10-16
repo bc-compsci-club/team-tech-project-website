@@ -5,7 +5,7 @@ title: Learning Resources
 
 Interested in learning how to program, learning a new technology, or just want a quick refresher on a topic? Take a look at these resources here!
 
-**Resources with a ⭐ are recommended for anyone that has never programmed before or is new to the field of computer science!**
+**Resources with a &nbsp;⭐&nbsp; are recommended for anyone that has never programmed before or are new to the field of computer science!**
 
 ## Upcoming Events and Workshops
 
