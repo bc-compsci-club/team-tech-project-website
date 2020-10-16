@@ -24,3 +24,11 @@ Need more inspiration? Take a look at these articles with various hackathon idea
 ## Use Your Tools
 
 To help you while you build your project, we compiled a [list of useful tools and resources](/docs/resources/tools) that you can use! Some of these tools include domains to host your project on, credits to deploy your project to the cloud, tools to help you while you develop, and many more. Use these tools to build, test, and deploy your project to the world.
+
+## Getting Help
+
+If you or your team ever get stuck with your project and need help, just ask in the `#programming-help` channel on our Discord community, and the friendly community can help you out.
+
+:::info Join the Discord community!
+Not a member of our Discord community and/or the club yet? [Join the club here to gain access!](https://bccompsci.club/join)
+:::
