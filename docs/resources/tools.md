@@ -49,5 +49,5 @@ title: Useful Tools
   Over 1000 Free SVG icons for popular brands. _Contributed by Calvin Kipperman_
 
 :::note Contribute to this list!
-Have any resources you want to share with us? Post them in our Discord community under the `#resources` channel or submit a pull request [here](https://github.com/bc-compsci-club/ttp.bccompsci.club)!
+Have any resources you want to share with us? Post them in our Discord community under the `#resources` channel or [**submit a pull request here**](https://github.com/bc-compsci-club/ttp.bccompsci.club)!
 :::

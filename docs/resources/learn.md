@@ -119,5 +119,5 @@ Interested in learning how to program, learning a new technology, or just want a
   A roadmap to becoming a web developer in 2020. _Contributed by Tenz#0347_
 
 :::note Contribute to this list!
-Have any resources you want to share with us? Post them in our Discord community under the `#resources` channel or submit a pull request [here](https://github.com/bc-compsci-club/ttp.bccompsci.club)!
+Have any resources you want to share with us? Post them in our Discord community under the `#resources` channel or [**submit a pull request here**](https://github.com/bc-compsci-club/ttp.bccompsci.club)!
 :::
