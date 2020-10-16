@@ -13,7 +13,7 @@ Ready to get started? Continue on to [**How Team Tech Project Works**](/docs/get
 <!-- --- -->
 
 :::note Up Next
-The next monthly meetup is in **Mid-November**.
+The next monthly meetup is **Tuesday, November 10**.
 
 Check out the club's [events page](https://bccompsci.club/events) for the latest about upcoming meetups, as well as other great events and activities.
 :::

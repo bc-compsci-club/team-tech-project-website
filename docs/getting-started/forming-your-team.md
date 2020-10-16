@@ -32,7 +32,7 @@ Not a member of our Discord community and/or the club yet? [Join the club here t
 After presentations are finished during each meetup, team formation for the next month's project begins. This is the best time to find team members to work with, as other new members and existing teams will be looking for team members as well, and you can form a team quickly during the team formation session!
 
 :::note Up Next
-The next monthly meetup is in **Mid-November**. Check back at the Team Tech Project website soon for more details about the next meetup!
+The next monthly meetup is **Tuesday, November 10**. Check back at the Team Tech Project website soon for more details about the next meetup and to register!
 :::
 
 ## Prepare Your Team
