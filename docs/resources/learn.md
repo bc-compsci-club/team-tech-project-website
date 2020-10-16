@@ -35,11 +35,11 @@ Interested in learning how to program, learning a new technology, or just want a
 ### Full-Stack Development
 
 - [**App Academy Open**](https://open.appacademy.io)  
-  The free online version of App Academy's bootcamp that teaches App Academy's entire in-person full-stack curriculum.
+  The free online version of App Academy's bootcamp that teaches App Academy's entire in-person full-stack curriculum. _Contributed by Kevin Tam_
 - [**Full Stack Open**](https://fullstackopen.com/en)  
   An introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js, as well as a section on GraphQL. _Contributed by FPSTiger#0099_
 - [**The Odin Project**](https://www.theodinproject.com)  
-  A free, open source coding curriculum that can be taken entirely online. Has learning paths for full-stack Ruby on Rails, full-stack JavaScript, and front-end.
+  A free, open source coding curriculum that can be taken entirely online. Has learning paths for full-stack Ruby on Rails, full-stack JavaScript, and front-end. _Contributed by Jake Teh Dog#2672_
 
 ### Web Development
 
@@ -49,7 +49,7 @@ Interested in learning how to program, learning a new technology, or just want a
 ### Other
 
 - [**Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer**](https://www.youtube.com/watch?v=RBSGKlAvoiM)  
-  Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually.
+  Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually. _Contributed by Jake Teh Dog#2672_
 - [**GitHub Learning Lab**](https://lab.github.com)  
   Grow your skills by completing fun, realistic projects. Get advice and helpful feedback from GitHub's friendly Learning Lab bot. _Contributed by Khalid#5042_
 - [**Full Stack Deep Learning**](https://course.fullstackdeeplearning.com)  
@@ -82,7 +82,7 @@ Interested in learning how to program, learning a new technology, or just want a
 #### Command Line
 
 - [**Conquering the Command Line**](http://conqueringthecommandline.com/book)  
-  Learn to master and conquer the most valuable and useful command line tools for Unix and Linux based systems.
+  Learn to master and conquer the most valuable and useful command line tools for Unix and Linux based systems. _Contributed by Jake Teh Dog#2672_
 
 #### Shell Scripting
 
@@ -114,7 +114,7 @@ Interested in learning how to program, learning a new technology, or just want a
 - [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)  
   A large collection of free programming books. _Contributed by Khalid#5042_
 - [**Developer Roadmaps**](https://roadmap.sh)  
-  Step by step guides and paths to learn different tools or technologies.
+  Step by step guides and paths to learn different tools or technologies. _Contributed by Kevin Tam_
 - [**Web Developer Roadmap 2020**](https://github.com/kamranahmedse/developer-roadmap)  
   A roadmap to becoming a web developer in 2020. _Contributed by Tenz#0347_
 
