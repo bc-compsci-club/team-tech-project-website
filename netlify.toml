@@ -17,13 +17,13 @@ cache-control = '''
 # Redirects for the domain
 [[redirects]]
 from = "/register"
-to = "https://docs.google.com/forms/d/e/1FAIpQLSeylzA2pyixT1X66c0Q8Xy9NnS-boNyDaaEJs26DrVQiFPfVg/viewform"
+to = "https://forms.gle/hHE6caSmcBGx5g8aA"
 status = 302
 headers = {Cache-Control = "public, max-age=0, must-revalidate"}
 
 [[redirects]]
 from = "/register-present"
-to = "https://docs.google.com/forms/d/e/1FAIpQLSeylzA2pyixT1X66c0Q8Xy9NnS-boNyDaaEJs26DrVQiFPfVg/viewform"
+to = "https://forms.gle/GmsqwzBc1eFXhBV98"
 status = 302
 headers = {Cache-Control = "public, max-age=0, must-revalidate"}
 
