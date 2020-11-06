@@ -30,6 +30,19 @@ function Home() {
             Tuesday, November 10
           </h2>
           <div className={styles.buttons}>
+            <a
+              className={clsx(
+                "button button--outline button--secondary button--lg",
+                styles.getStarted
+              )}
+              href="https://ttp.bccompsci.club/register"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Register for Next Meetup
+            </a>
+          </div>
+          <div className={styles.buttons}>
             <Link
               className={clsx(
                 "button button--outline button--secondary button--lg",
@@ -37,7 +50,7 @@ function Home() {
               )}
               to={useBaseUrl("docs")}
             >
-              Get Started
+              Event Guide
             </Link>
           </div>
         </div>

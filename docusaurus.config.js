@@ -28,6 +28,16 @@ module.exports = {
           position: "left",
         },
         {
+          href: "https://ttp.bccompsci.club/register",
+          label: "Register for November Meetup",
+          position: "right",
+        },
+        {
+          href: "https://ttp.bccompsci.club/register-present",
+          label: "Team Presentation Registration",
+          position: "right",
+        },
+        {
           href: "https://bccompsci.club",
           label: "CS Club Website",
           position: "right",

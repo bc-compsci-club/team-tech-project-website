@@ -7,7 +7,9 @@ After you and your team have worked on your project, show us all the hard work y
 
 ## Before The Meetup
 
-A few days before each meetup, a form for registering for presentations will be made available for teams to fill out. All teams that plan to present their project should fill out the form before the day of the meetup. More details about presentations will be announced closer to the next meetup, so stay tuned for more information!
+A few days before each meetup, a form for registering for presentations will be made available for teams to fill out. All teams that plan to present their project should fill out the form before the day of the meetup.
+
+To register your team to present at the next meetup, fill out the form [here.](https://ttp.bccompsci.club/register-present)
 
 ## During the Meetup
 
